@@ -1,0 +1,42 @@
+Image sources for LIS 351 A3 - The Daily Cup
+All photos found through Openverse (openverse.org)
+
+coffee-pour.jpg  (1600 x 800 pixels, cropped and resized from 9200 x 6900)
+  Title:   Cappuccino latte art 20260712 - 02
+  Creator: Wiki Asmah
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+  Source:  https://commons.wikimedia.org/w/index.php?curid=195604167
+
+pour-over.jpg
+  Title:   Four Barrel single origin pour-over setup
+  Creator: niallkennedy
+  License: CC BY-NC 2.0 (https://creativecommons.org/licenses/by-nc/2.0/)
+  Source:  https://www.flickr.com/photos/35034351734@N01/4302164182
+
+french-press.jpg  (1024 x 683 pixels)
+  Title:   Il Sogno Osteria French Press Coffee
+  Creator: nan palmero
+  License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Source:  https://www.flickr.com/photos/97402086@N00/14748668581
+
+cold-brew.jpg
+  Title:   Cold brew coffee
+  Creator: Vanilla and lace
+  License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  Source:  https://www.flickr.com/photos/51029399@N04/7571002288
+
+coffee-counter.jpg  (1024 x 512 pixels)
+  Title:   Coffee Shop Cafeteria Restaurant Service Concept
+  Creator: Rawpixel Ltd
+  License: CC CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+  Source:  https://www.flickr.com/photos/147875007@N03/32191471803
+
+coffee-beans.jpg
+  Title:   Roasting coffee beans - Coffea Coffee
+  Creator: avlxyz
+  License: CC BY-NC-SA 2.0 (https://creativecommons.org/licenses/by-nc-sa/2.0/)
+  Source:  https://www.flickr.com/photos/10559879@N00/5496278619
+
+icon-beans.svg, icon-cup.svg, icon-thermometer.svg
+  Source:  Lucide icon set (lucide.dev) - bean, coffee, thermometer
+  License: ISC License (free for any use)
